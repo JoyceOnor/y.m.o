@@ -1,0 +1,147 @@
+div {
+  background-color: #ffeadb;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: black;
+  background-color: #eeeeee;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 687.5%;
+  color: #6e5773;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #6e5773;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #6e5773;
+}
+p{
+  line-height: 1.5;
+}
+em{
+    line-height: 1.5;
+}
+hr {
+  border: dotted #9d65c9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #6e5773;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #eeeeee;
+}
+.top-container {
+  background-color: #ffeadb;
+  position: relative;
+  padding-top: 100px;
+
+}
+.baby {
+background-color: #eeeeee;
+}
+
+.middle-container {
+margin:100px 0;
+background-color:#eeeeee;
+
+}
+
+.bottom-container {
+    background-color: #ffeadb;
+    padding: 50px 0 20px;
+
+}
+
+.heart{
+background-color: #eeeeee;
+}
+
+.hobbies-row{
+  width: 50%;
+  margin: 20px auto 100px auto;
+  text-align: left;
+
+  background-color: #eeeeee;
+}
+
+.content {
+  width: 70%;
+  float: right;
+  margin-right:30px;
+}
+
+.train-img {
+  width: 100%;
+  float: right;
+  margin-left: 30px;
+}
+.piano-img {
+  width: 105%;
+  float: right;
+  margin-left: 30px;
+}
+
+.vie-img {
+  width: 110%;
+  float: right;
+  margin-left: 30px;
+}
+
+.reis-img {
+  width: 90%;
+  float: right;
+  margin-left: 30px;
+}
+
+.reise-img {
+  width: 100%;
+  float: left;
+  margin-left: 30px;
+}
+
+.profile{
+  background-color: #eeeeee;
+}
+.hobbies{
+  background-color: #eeeeee;
+}
+
+.Follow {
+    background-color: #eeeeee;
+    width: 40%;
+    margin: 100px auto 60px;
+
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.copyright{
+color: grey;
+font-size: 75%;
+padding: 20px 0;
+}
